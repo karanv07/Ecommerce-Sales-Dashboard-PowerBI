@@ -1,4 +1,10 @@
-# Ecommerce-Sales-Dashboard-PowerBI
+
+# Ecommerce Sales Dashboard | Power BI
+
+![Dashboard Preview](ecommerce_dashboard.png)
+
+## Project Overview
+This project is an interactive Ecommerce Sales Dashboard built in Power BI to analyze sales performance, profit trends, customer purchase behavior, and business insights across different cities, states, categories, and payment methods.
 
 ## Project Overview
 This project is an interactive Ecommerce Sales Dashboard built in Power BI to analyze sales performance, profit trends, customer purchase behavior, and business insights across different cities, states, categories, and payment methods.
